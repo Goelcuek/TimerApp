@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Timer</string>
+    <string name="channel_name">Timer Alerts</string>
+    <string name="channel_description">Alerts for the daily 30-minute timer</string>
+</resources>
